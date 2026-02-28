@@ -28,6 +28,24 @@ git clone https://github.com/your-username/photo-culler.git
 cd photo-culler
 ```
 ### 2. Install dependencies
+    Create the environment:
+    ```bash
+
+    python -m venv .venv
+```
+    Use code with caution.
+    Activate it:
+    ```bash
+
+    source .venv/bin/activate
+
+    Use code with caution.
+```
+    Install your requirements:
+    ```bash
+
+    pip install -r requirements.txt
+```
 ```bash
 pip install -r requirements.txt
 ```
