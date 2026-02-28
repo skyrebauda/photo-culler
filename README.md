@@ -46,9 +46,7 @@ cd photo-culler
 
     pip install -r requirements.txt
 ```
-```bash
-pip install -r requirements.txt
-```
+
 ### 3. Run the script
 ```bash
 python photo_culler.py -i ./photos -o ./culled
